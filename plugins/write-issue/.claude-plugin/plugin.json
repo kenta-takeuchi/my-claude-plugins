@@ -1,0 +1,5 @@
+{
+  "name": "write-issue",
+  "version": "1.0.0",
+  "description": "ざっくりした要望から、実装に必要な情報まで盛り込んだ充実したGitHub Issue本文を作って登録する"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "cleanup-merged",
+  "version": "1.0.0",
+  "description": "マージ済みのローカルブランチとそれに紐づくgit worktreeをまとめて削除する"
+}

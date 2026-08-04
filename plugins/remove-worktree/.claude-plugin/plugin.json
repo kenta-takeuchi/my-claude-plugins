@@ -1,0 +1,5 @@
+{
+  "name": "remove-worktree",
+  "version": "1.0.0",
+  "description": "現在のセッションが作業しているgit worktreeを後始末する"
+}
