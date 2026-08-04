@@ -1,5 +1,0 @@
-{
-  "name": "pr-screenshots",
-  "version": "1.0.0",
-  "description": "PRの画面スクリーンショットをPlaywrightで取得し、PR本文に貼り付け位置を明示して更新する"
-}

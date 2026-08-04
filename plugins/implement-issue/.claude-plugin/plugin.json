@@ -1,5 +1,0 @@
-{
-  "name": "implement-issue",
-  "version": "1.0.0",
-  "description": "GitHub Issueの番号を渡すと、実装・テスト・コミット・PR作成まで一気通貫で行う"
-}

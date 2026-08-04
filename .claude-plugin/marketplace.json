@@ -3,29 +3,9 @@
   "owner": { "name": "kenta-takeuchi" },
   "plugins": [
     {
-      "name": "write-issue",
-      "source": "./plugins/write-issue",
-      "description": "ざっくりした要望から、実装に必要な情報まで盛り込んだ充実したGitHub Issue本文を作って登録する"
-    },
-    {
-      "name": "implement-issue",
-      "source": "./plugins/implement-issue",
-      "description": "GitHub Issueの番号を渡すと、実装・テスト・コミット・PR作成まで一気通貫で行う"
-    },
-    {
-      "name": "pr-screenshots",
-      "source": "./plugins/pr-screenshots",
-      "description": "PRの画面スクリーンショットをPlaywrightで取得し、PR本文に貼り付け位置を明示して更新する"
-    },
-    {
-      "name": "cleanup-merged",
-      "source": "./plugins/cleanup-merged",
-      "description": "マージ済みのローカルブランチとそれに紐づくgit worktreeをまとめて削除する"
-    },
-    {
-      "name": "remove-worktree",
-      "source": "./plugins/remove-worktree",
-      "description": "現在のセッションが作業しているgit worktreeを後始末する"
+      "name": "my-skills",
+      "source": "./plugins/my-skills",
+      "description": "個人用スキル集（write-issue / implement-issue / pr-screenshots / cleanup-merged / remove-worktree）"
     }
   ]
 }
